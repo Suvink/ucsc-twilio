@@ -22,7 +22,7 @@ function HomeHero(){
                     </button>
                 </div>
                 <div className="column is-6 has-text-centered">
-                    <img className="hero-img" src="https://uploads-ssl.webflow.com/5e8c566954381032f62e178b/5ea3ec8bd3a80fe62bc11cda_kristi-header-optimized.jpg" />
+                    <img className="hero-img" src="https://uploads-ssl.webflow.com/5e8c566954381032f62e178b/5ea3ec8bd3a80fe62bc11cda_kristi-header-optimized.jpg" alt="sdcsd" />
                 </div>
             </div>
         </section>

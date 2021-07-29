@@ -39,7 +39,7 @@ function Contact() {
             <h1 className="title is-3 mb-4">Reach out to me</h1>
             <div className="columns">
                 <div className="column is-6 contact-image-column">
-                    <img src="https://cdn.dribbble.com/users/1602563/screenshots/8869646/media/ddc33ce2c8e2570c410123f375e2c35c.gif"></img>
+                    <img src="https://cdn.dribbble.com/users/1602563/screenshots/8869646/media/ddc33ce2c8e2570c410123f375e2c35c.gif" alt="sdcdsc"></img>
                 </div>
                 <div className="column is-6">
                     <form>

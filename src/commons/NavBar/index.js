@@ -6,10 +6,10 @@ function NavBar() {
         <nav class="navbar" role="navigation" aria-label="main navigation">
             <div class="navbar-brand">
                 <a class="navbar-item" href="https://bulma.io">
-                    <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28" />
+                    <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28" alt="sdcshdcb" />
                 </a>
 
-                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                <a href="https://suvin.me" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
                     <span aria-hidden="true"></span>
                     <span aria-hidden="true"></span>
                     <span aria-hidden="true"></span>
@@ -18,11 +18,11 @@ function NavBar() {
 
             <div id="navbarBasicExample" class="navbar-menu">
                 <div class="navbar-start">
-                    <a class="navbar-item">
+                    <a class="navbar-item" href="/">
                         Home
                     </a>
 
-                    <a class="navbar-item">
+                    <a class="navbar-item" href="/about">
                         About
                     </a>
                 </div>
@@ -30,7 +30,7 @@ function NavBar() {
                 <div class="navbar-end">
                     <div class="navbar-item">
                         <div class="buttons">
-                            <a href="#">
+                            <a href="https://suvin.me">
                                 <button class="button is-black mr-2">
                                     <span class="icon is-small">
                                         <i class="fab fa-github"></i>
