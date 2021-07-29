@@ -1,0 +1,11 @@
+.hero-img{
+    width: 50%;
+}
+.hero-text-col{
+    align-self: center !important;
+    padding-left: 3rem;
+}
+.is-pink{
+    background-color: #ea4c89 !important;
+    color: #fff !important;
+}
